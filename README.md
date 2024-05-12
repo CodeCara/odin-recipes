@@ -1,5 +1,7 @@
 My First TOP project using HTML only.  
 
+Later assignment - updating the page with some basic CSS.
+
 This consists of an index page with links to three different recipe pages.
 
 I already have some experience with html, but in this specific project (and with TOP), I learnt:
