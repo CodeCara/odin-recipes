@@ -1,5 +1,33 @@
 * {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: darkgreen;
-background-color: orange;
+
+
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    background-color: darkblue;
+    padding:  30px;
+    margin: 30px 300px;
+    border: 5px solid lightskyblue;
+   
+}
+
+/* ul {
+background-color: red;
+text-align: center;
+align-content: center;} */
+
+
+
+.list-container {
+font-weight: bold;
+    display: flex;
+    justify-content: center;
+    border: 5px solid lightskyblue;
+   background-color: orange;
+    margin: 30px 400px;
+    
+   
 }
